@@ -8,8 +8,6 @@ Deposits must be greater than 0.
 Withdrawals cannot exceed the current account balance.
 The system will allow the user to create a bank account and perform multiple operations until they choose to exit
 
-Source: Surname, M.Abdoola, A. Basson (2024),
-
 4.1 You are tasked with developing a Bank Account Management System for a small bank. The system should allow users to:
 a)    Create a new account: The user inputs their name, account number, and initial deposit.
 b)    Deposit money into the account.
